@@ -1,2 +1,2 @@
 # family-meds
-This app, built with Java, helps families keep a record of the meds that family members use.
+This app, built with Java, will help families keep a record of the meds that family members use.

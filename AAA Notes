@@ -1,0 +1,34 @@
+abstract class/interface MedicationList
+ 
+ 
+abstract class/interface MedicationForm
+
+
+class User
+ 
+
+class FamilyList
+
+  FamilyMember1
+	
+		List of medications
+ 
+		Number of medications
+ 
+	FamilyMember2
+ 
+		List of medications
+ 
+    Number of medications
+ 
+	FamilyMember3
+ 
+		List of medications
+ 
+    Number of medications
+ 
+	FamilyMember4
+ 
+		List of medications
+		
+    Number of medications
